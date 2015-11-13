@@ -10,7 +10,7 @@ import static com.example.util.DatabaseConstant.ListConstant.*;
  * Created by :
  * -
  * Jovet Alabastro
- * Android Developer @ DesignBlue Manila Inc.
+ * Android Developer
  * Email : wizardkhinz18@gmail.com
  * -
  * Date created : 11/13/2015 @ 1:30 PM

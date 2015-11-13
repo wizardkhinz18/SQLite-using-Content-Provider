@@ -22,7 +22,7 @@ import static com.example.util.ContentUri.ListUri.*;
  * Created by :
  * -
  * Jovet Alabastro
- * Android Developer @ DesignBlue Manila Inc.
+ * Android Developer
  * Email : wizardkhinz18@gmail.com
  * -
  * Date created : 11/13/2015 @ 1:25 PM
